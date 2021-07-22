@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none !important;
+    user-select: none;
+}
+.icons i:hover{
+    color: #064420;
+    transform: scale(2,2);
+}
+
+.main{
+    height: 500px;
+    background-image: url('pic/BIH.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+.services{
+    height: fit-content;
+}
+.gwill{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.footer{
+    height: 300px;
+    border-top: 2px solid grey;
+}

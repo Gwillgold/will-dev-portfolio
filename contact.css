@@ -1,0 +1,20 @@
+
+.main{
+    height: 500px;
+    background-image: url('pic/BIH.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+.gwill{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.footer{
+    height: 300px;
+    border-top: 2px solid grey;
+}
+.services{
+    height: fit-content;
+}
